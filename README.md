@@ -6,12 +6,7 @@ If you have a browser application that require to access to Redmine API in a dif
 
 ## Install
 
-Clone current repo in the plugins directory:
-
-```bash
-cd $REDMINE_ROOT
-git clone git://github.com/mavimo/redmine_cors.git plugins/redmine_cors
-```
+Clone current repo in the plugins directory.
 
 and restart webserver to load plugins.
 
